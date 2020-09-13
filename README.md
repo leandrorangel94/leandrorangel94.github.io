@@ -1,9 +1,4 @@
-<h1>Título do Projeto</h1>
-
-<p align="center">
-<image src="https://user-images.githubusercontent.com/39461509/85029720-fa1f2080-b152-11ea-8ebc-c78432bc532e.jpg"/></br>
-<label>Logo</label>
-</p>
+<h1 align="center">Minha Página Pessoal</h1>
 
 <p align="center">
 <a href="#sobre-memo">Sobre</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
@@ -16,8 +11,6 @@
 <image src="https://img.shields.io/badge/Shields-customizados-red"/>
 </p>
 
-Clique [aqui](https://shields.io/) e selecione escudos para o seu projeto.
-
 ## Apresentação do Projeto :sparkles:
 
 <p align="center">
@@ -28,7 +21,7 @@ Clique [aqui](https://shields.io/) e selecione escudos para o seu projeto.
 
 ## Sobre :memo:
 
-Breve descrição sobre o projeto.
+Projeto desenvolvido durante a semana do Reboot.dev.
 
 ## Tecnologias :rocket:
 
@@ -47,4 +40,4 @@ Breve descrição sobre o projeto.
 
 ---
 
-##### <p align="center"> <strong> < Feito por <a href="#"> @seuperfil  </a> /> </strong>  :wave:
+##### <p align="center"> <strong> < Feito por <a href="http://github.com/leandrorangel94"> @leandrorangel94  </a> /> </strong>  :wave:
