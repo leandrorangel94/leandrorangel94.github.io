@@ -7,14 +7,10 @@
 <a href="#licença-scroll">Licença</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-<image src="https://img.shields.io/badge/Shields-customizados-red"/>
-</p>
-
 ## Apresentação do Projeto :sparkles:
 
 <p align="center">
-<image src="https://user-images.githubusercontent.com/39461509/85029714-f8edf380-b152-11ea-86a6-ec196309ae34.png" />
+<image src="https://user-images.githubusercontent.com/39461509/109404785-33e23100-7948-11eb-95ba-0f47107b21ba.png" />
 </p>
 
 ---
@@ -23,9 +19,6 @@
 
 Projeto desenvolvido durante a semana do Reboot.dev.
 
-## Tecnologias :rocket:
-
-- <a href="#">Liste aqui</a>
 
 ## Como contribuir 🤔
 
